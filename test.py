@@ -1,6 +1,15 @@
-c = input('enter some text: ')
-print("some text")
-print(c)
+print("РЕЦЕПТ БОРЩА\n")
+print("Для бульона: \n1–2 л воды; \n400–500 г свинины или говядины на кости.\n\n ")
+
+
+
+
+
+
+
+
+
+
 
 
 a = input('ANYKEY')
